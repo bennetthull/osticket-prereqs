@@ -47,6 +47,6 @@ From the oSTicket installation files folder (obtained by aggregating oSTicket do
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, I installed MySQL 5.5.62. This will be the database that will store the user accounts, ticketing information, etc. inside oSTicket. After that I opened IIS as an Admin, registered PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe). Then I reloaded IIS (Open IIS, Stop and Start the server). Lastly, I installed oSTicket from the oSTicket installation files folder. I did so by copying the upload folder into the web server folder.
+Next, I installed MySQL 5.5.62. This will be the database that will store the user accounts, ticketing information, etc. inside oSTicket. After that I opened IIS as an Admin, registered PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe). Then I reloaded IIS (Open IIS, Stop and Start the server). I subsequently installed oSTicket from the oSTicket installation files folder. I did so by copying the upload folder into the web server folder. I loaded the osTicket site after that. 
 </p>
 <br />
