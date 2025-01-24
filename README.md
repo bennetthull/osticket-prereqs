@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services (IIS)
+- Enable Internet Information Services (IIS) W/ CGI
 - Install Web Platform Installer
 - Install MySQL and Set Up Username/Password
 - Install C++ Redistributable
@@ -40,7 +40,7 @@ After creating a Windows 10 virtual machine in Azure, I used remote desktop to c
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the oSTicket installation files folder I installed PHP Manager for IIS, the Rewrite Module, and created the directory C:\PHP. I then unzipped PHP 7.3.8 into the "C:\PHP" folder.
 </p>
 <br />
 
