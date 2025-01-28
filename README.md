@@ -37,7 +37,7 @@ After creating a Windows 10 virtual machine in Azure, I used remote desktop to c
 <br />
 
 <p>
-<img src="https://i.imgur.com/kC5I22k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="536" alt="Screenshot 2025-01-23 at 11 14 40 PM" src="https://github.com/user-attachments/assets/2be6ae8f-c873-43fc-b772-61e7625f1659" />
 </p>
 <p>
 From the oSTicket installation files folder (obtained by aggregating oSTicket documentation) I installed PHP Manager for IIS, the Rewrite Module, and created the directory C:\PHP. I then unzipped PHP 7.3.8 into the "C:\PHP" folder. After that I installed the C++ Redistributable file "VC_redist.x86.exe"
