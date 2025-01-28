@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/GhiJaL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="599" alt="Screenshot 2025-01-23 at 10 37 30 PM" src="https://github.com/user-attachments/assets/56188130-d512-46b5-9bff-9b9621272c35" />
 </p>
 <p>
 After creating a Windows 10 virtual machine in Azure, I used remote desktop to connect to it via its public IP address. From there, I enabled Internet Information Services (IIS) with CGI. I did this in Control Panel. This will act as a web server that will run on the computer. 
